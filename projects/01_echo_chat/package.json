@@ -1,0 +1,13 @@
+{
+  "name": "01-echo-chat",
+  "version": "1.0.0",
+  "description": "Socket.IO Chat Gym for Kids - Level 01",
+  "main": "starter_file.js",
+  "scripts": {
+    "start": "node starter_file.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
