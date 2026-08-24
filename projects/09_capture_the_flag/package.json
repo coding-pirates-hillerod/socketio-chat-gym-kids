@@ -1,0 +1,13 @@
+{
+  "name": "09-capture-the-flag",
+  "version": "1.0.0",
+  "description": "Socket.IO Chat Gym for Kids - Capture The Flag",
+  "main": "starter_file.js",
+  "scripts": {
+    "start": "node starter_file.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
