@@ -1,0 +1,13 @@
+{
+  "name": "04_nicknames",
+  "version": "1.0.0",
+  "description": "Level 04 - Nicknames",
+  "main": "starter_file.js",
+  "scripts": {
+    "start": "node starter_file.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.8.1"
+  }
+}
