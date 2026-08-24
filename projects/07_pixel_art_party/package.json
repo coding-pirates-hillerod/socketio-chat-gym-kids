@@ -1,0 +1,13 @@
+{
+  "name": "07-pixel-art-party",
+  "version": "1.0.0",
+  "description": "Socket.IO Chat Gym for Kids - Pixel Art Party",
+  "main": "starter_file.js",
+  "scripts": {
+    "start": "node starter_file.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
